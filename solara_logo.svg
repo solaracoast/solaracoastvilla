@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="35 122 340 170"
+   viewBox="35 122 340 178"
    version="1.1"
-   id="svg10"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -24,51 +23,65 @@
        x1="12.661131" y1="639.69987" x2="103.99199" y2="639.69987"
        gradientTransform="matrix(3.6035615,0,0,0.28525449,-2.0829519,-0.80626114)"
        gradientUnits="userSpaceOnUse" />
+
+    <!-- Glow using SourceAlpha blur — no morphology to avoid distortion -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur"/>
+      <feFlood flood-color="white" flood-opacity="0.85" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="softGlow"/>
+      <feMerge>
+        <feMergeNode in="softGlow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Text glow — tighter spread -->
+    <filter id="textGlow" x="-10%" y="-35%" width="120%" height="170%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="white" flood-opacity="0.9" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="softGlow"/>
+      <feMerge>
+        <feMergeNode in="softGlow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
-  <!-- Wave 1 white outline (thin) -->
-  <path d="m 49.18128,194.69728 q 61.51708,-15.03873 123.03416,0 61.51707,15.03873 123.03415,0 35.88496,-8.02066 71.76993,0"
-     stroke="#ffffff" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.85" />
-  <!-- Wave 1 coloured -->
-  <path d="m 49.18128,194.69728 q 61.51708,-15.03873 123.03416,0 61.51707,15.03873 123.03415,0 35.88496,-8.02066 71.76993,0"
-     stroke="url(#linearGradient12)" stroke-width="11.1525" fill="none" stroke-linecap="round" opacity="0.95" />
+  <!-- Waves grouped so their glows blend as one, not separately -->
+  <g filter="url(#glow)">
+    <path d="m 49.18128,194.69728 q 61.51708,-15.03873 123.03416,0 61.51707,15.03873 123.03415,0 35.88496,-8.02066 71.76993,0"
+       stroke="url(#linearGradient12)" stroke-width="11.1525"
+       fill="none" stroke-linecap="round" opacity="0.95" />
+    <path d="m 44.054857,216.75409 q 61.517073,-15.03874 123.034153,0 61.51708,15.03874 123.03416,0 35.88496,-8.02066 71.76992,0"
+       stroke="url(#linearGradient11)" stroke-width="13.1803"
+       fill="none" stroke-linecap="round" opacity="0.95" />
+  </g>
 
-  <!-- Wave 2 white outline (thin) -->
-  <path d="m 44.054857,216.75409 q 61.517073,-15.03874 123.034153,0 61.51708,15.03874 123.03416,0 35.88496,-8.02066 71.76992,0"
-     stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.85" />
-  <!-- Wave 2 coloured -->
-  <path d="m 44.054857,216.75409 q 61.517073,-15.03874 123.034153,0 61.51708,15.03874 123.03416,0 35.88496,-8.02066 71.76992,0"
-     stroke="url(#linearGradient11)" stroke-width="13.1803" fill="none" stroke-linecap="round" opacity="0.95" />
+  <!-- Sun grouped so amber glow and ring share one soft outline -->
+  <g filter="url(#glow)">
+    <ellipse cx="202.97397" cy="169.63272" rx="26.6574" ry="25.064556"
+       fill="#ffb347" opacity="0.8" />
+    <ellipse cx="202.97397" cy="169.63272" rx="35.884964" ry="35.090378"
+       stroke="url(#sunGrad)" stroke-width="12.1664" fill="none" opacity="0.95" />
+  </g>
 
-  <!-- Sun white outline (thin) -->
-  <ellipse cx="202.97397" cy="169.63272" rx="35.884964" ry="35.090378"
-     stroke="#ffffff" stroke-width="4" fill="white" opacity="0.85" />
-  <!-- Sun amber glow -->
-  <ellipse cx="202.97397" cy="169.63272" rx="26.6574" ry="25.064556"
-     fill="#ffb347" opacity="0.8" />
-  <!-- Sun orange ring -->
-  <ellipse cx="202.97397" cy="169.63272" rx="35.884964" ry="35.090378"
-     stroke="url(#sunGrad)" stroke-width="12.1664" fill="none" opacity="0.95" />
-
-  <!-- SOLARA COAST -->
-  <text x="200.71423" y="262.79086"
+  <!-- SOLARA COAST — moved down -->
+  <text x="200.71423" y="272"
      font-family="Verdana, Geneva, sans-serif"
      font-size="31.43px" font-weight="700"
      text-anchor="middle" letter-spacing="2"
-     stroke="#ffffff" stroke-width="2.2"
-     paint-order="stroke fill"
      fill="#2b4c5e"
-     transform="scale(1.0112586,0.98886675)">SOLARA COAST</text>
+     transform="scale(1.0112586,0.98886675)"
+     filter="url(#textGlow)">SOLARA COAST</text>
 
-  <!-- V I L L A -->
-  <text x="200" y="283"
+  <!-- V I L L A — moved down -->
+  <text x="200" y="293"
      font-family="Verdana, Geneva, sans-serif"
      font-size="20px" font-weight="700"
      text-anchor="middle"
      textLength="195" lengthAdjust="spacing"
-     stroke="#ffffff" stroke-width="1.8"
-     paint-order="stroke fill"
      fill="#52b5e5"
-     transform="matrix(1.0252846,0,0,1.0025822,-2.0829519,-0.80626115)">V I L L A</text>
+     transform="matrix(1.0252846,0,0,1.0025822,-2.0829519,-0.80626115)"
+     filter="url(#textGlow)">V I L L A</text>
 
 </svg>
