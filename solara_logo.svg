@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="solara_logo.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.1754605"
+     inkscape:cx="151.46219"
+     inkscape:cy="317.86374"
+     inkscape:window-width="1440"
+     inkscape:window-height="842"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8"
+     showgrid="false">
+    <inkscape:grid
+       id="grid203"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient203"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)"
+       spreadMethod="pad">
+      <stop
+         offset="0.47280335"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop202" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop203" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient201"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)"
+       spreadMethod="pad">
+      <stop
+         offset="0.50418413"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop200" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop201" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient199"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)"
+       spreadMethod="pad">
+      <stop
+         offset="0.5"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop198" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop199" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient197"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)"
+       spreadMethod="pad">
+      <stop
+         offset="0.48535565"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop196" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop197" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient195"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)">
+      <stop
+         offset="0.43514645"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop194" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop195" />
+    </linearGradient>
+    <linearGradient
+       id="sunGrad3"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)"
+       xlink:href="#linearGradient203">
+      <stop
+         offset="0%"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop1" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="waveGrad3"
+       x1="0%"
+       y1="0%"
+       x2="100%"
+       y2="0%">
+      <stop
+         offset="0%"
+         style="stop-color:#52B5E5;stop-opacity:1"
+         id="stop3" />
+      <stop
+         offset="100%"
+         style="stop-color:#3495C9;stop-opacity:1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#waveGrad3"
+       id="linearGradient193"
+       x1="9.8602755"
+       y1="733.88297"
+       x2="104.93099"
+       y2="733.88297"
+       gradientTransform="matrix(3.397471,0,0,0.29433658,5.0159881,-12.646684)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#sunGrad3"
+       id="linearGradient194"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.35214656,60.660123)"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151" />
+  </defs>
+  <!-- Bold brush stroke sun - energetic circular stroke -->
+  <!-- Center dot -->
+  <!-- Bold wave strokes - energetic -->
+  <path
+     d="M 50 195 Q 110 180 170 195 Q 230 210 290 195 Q 325 187 360 195"
+     stroke="url(#waveGrad3)"
+     stroke-width="11"
+     fill="none"
+     stroke-linecap="round"
+     opacity="0.8"
+     id="path5" />
+  <path
+     d="m 45.015988,217.35331 q 60.000002,-15 120.000002,0 60,15 120,0 35,-8 70,0"
+     stroke="url(#waveGrad3)"
+     stroke-width="13"
+     fill="none"
+     stroke-linecap="round"
+     id="path6"
+     style="stroke:url(#linearGradient193)" />
+  <!-- Text - Contemporary Sans (Verdana style) -->
+  <text
+     x="199.62289"
+     y="262.30829"
+     font-family="Verdana, Geneva, sans-serif"
+     font-size="32px"
+     font-weight="600"
+     fill="#2b4c5e"
+     text-anchor="middle"
+     letter-spacing="2"
+     id="text6">SOLARA COAST</text>
+  <text
+     x="200.31261"
+     y="282.93506"
+     font-family="Verdana, Geneva, sans-serif"
+     font-size="16px"
+     font-weight="400"
+     fill="#52b5e5"
+     text-anchor="middle"
+     letter-spacing="5"
+     id="text7"
+     style="stroke-width:13.8;stroke-dasharray:none;font-weight:400;font-size:16px;font-family:Verdana, Geneva, sans-serif;letter-spacing:5;text-anchor:middle;fill:#52b5e5"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Verdana, Geneva, sans-serif;-inkscape-font-specification:'Verdana, Geneva, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       id="tspan1">V I L L A</tspan></text>
+  <text
+     x="200"
+     y="298.80792"
+     font-family="Verdana, sans-serif"
+     font-size="10px"
+     fill="#7a9aa8"
+     text-anchor="middle"
+     letter-spacing="1"
+     id="text8">Phan Thiết, Vietnam</text>
+  <ellipse
+     cx="203.52525"
+     cy="188.41254"
+     fill="#ffb347"
+     opacity="0.7"
+     id="circle5-0"
+     rx="25.525253"
+     ry="24.412539"
+     style="stroke-width:3.12035" />
+  <circle
+     cx="200.15822"
+     cy="173.16223"
+     r="35"
+     stroke="url(#sunGrad3)"
+     stroke-width="12"
+     fill="none"
+     opacity="0.9"
+     id="circle4"
+     style="fill:#faf8f8;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" />
+  <circle
+     cx="200.35216"
+     cy="170.66013"
+     r="35"
+     stroke="url(#sunGrad3)"
+     stroke-width="12"
+     fill="none"
+     opacity="0.9"
+     id="circle4-9"
+     style="stroke:url(#linearGradient194)" />
+  <ellipse
+     cx="200.4995"
+     cy="170.38052"
+     fill="#ffb347"
+     opacity="0.7"
+     id="circle5"
+     rx="25.525253"
+     ry="24.412539"
+     style="stroke-width:3.12035" />
+</svg>
