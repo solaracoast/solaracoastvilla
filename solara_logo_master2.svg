@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 334.11509 171.65323"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="solara_logo_master2.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   width="334.11508"
+   height="171.65323"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.1974387"
+     inkscape:cx="130.6066"
+     inkscape:cy="103.9847"
+     inkscape:window-width="1440"
+     inkscape:window-height="842"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     showguides="true">
+    <inkscape:grid
+       id="grid203"
+       units="px"
+       originx="-34.613026"
+       originy="-126.33284"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+    <sodipodi:guide
+       position="165.32694,257.8863"
+       orientation="1,0"
+       id="guide9"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient203"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)"
+       spreadMethod="pad">
+      <stop
+         offset="0.47280335"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop202" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop203" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient201"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)"
+       spreadMethod="pad">
+      <stop
+         offset="0.50418413"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop200" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop201" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient199"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)"
+       spreadMethod="pad">
+      <stop
+         offset="0.5"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop198" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop199" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient197"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)"
+       spreadMethod="pad">
+      <stop
+         offset="0.48535565"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop196" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop197" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient195"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)">
+      <stop
+         offset="0.43514645"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop194" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop195" />
+    </linearGradient>
+    <linearGradient
+       id="sunGrad3"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.0766414,62.239862)"
+       xlink:href="#linearGradient203">
+      <stop
+         offset="0%"
+         style="stop-color:#FFB347;stop-opacity:1"
+         id="stop1" />
+      <stop
+         offset="100%"
+         style="stop-color:#FF9533;stop-opacity:1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="waveGrad3"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0">
+      <stop
+         offset="0%"
+         style="stop-color:#52B5E5;stop-opacity:1"
+         id="stop3" />
+      <stop
+         offset="100%"
+         style="stop-color:#3495C9;stop-opacity:1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#waveGrad3"
+       id="linearGradient193"
+       x1="9.8602753"
+       y1="733.883"
+       x2="104.93099"
+       y2="733.883"
+       gradientTransform="matrix(3.397471,0,0,0.29433658,-29.597039,-138.97951)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#sunGrad3"
+       id="linearGradient194"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-34.751237,-63.672712)"
+       x1="159"
+       y1="69"
+       x2="241"
+       y2="151" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#waveGrad3"
+       id="linearGradient8"
+       x1="12.661131"
+       y1="639.69989"
+       x2="103.99199"
+       y2="639.69989"
+       gradientTransform="matrix(3.5146939,0,0,0.2845198,-34.613027,-126.33283)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <!-- Bold brush stroke sun - energetic circular stroke -->
+  <!-- Center dot -->
+  <!-- Bold wave strokes - energetic -->
+  <!-- Text - Contemporary Sans (Verdana style) -->
+  <path
+     d="m 15.386973,68.667165 q 60,-15 119.999997,0 60,15 120,0 35,-8 70,0"
+     stroke="url(#waveGrad3)"
+     stroke-width="11"
+     fill="none"
+     stroke-linecap="round"
+     opacity="0.8"
+     id="path5"
+     style="stroke:url(#linearGradient8)" />
+  <path
+     d="m 10.402961,91.020475 q 60.000002,-15 119.999999,0 60,15.000005 120,0 35,-8 70,0"
+     stroke="url(#waveGrad3)"
+     stroke-width="13"
+     fill="none"
+     stroke-linecap="round"
+     id="path6"
+     style="stroke:url(#linearGradient193)" />
+  <text
+     x="165.00987"
+     y="135.97546"
+     font-family="Verdana, Geneva, sans-serif"
+     font-size="32px"
+     font-weight="600"
+     fill="#2b4c5e"
+     text-anchor="middle"
+     letter-spacing="2"
+     id="text6">SOLARA COAST</text>
+  <text
+     x="73.543106"
+     y="157.32965"
+     font-family="Verdana, Geneva, sans-serif"
+     font-size="24.9316px"
+     font-weight="400"
+     fill="#52b5e5"
+     text-anchor="middle"
+     letter-spacing="5"
+     id="text7-3"
+     transform="scale(0.95336919,1.0489116)"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.0545px;font-family:Verdana, Geneva, sans-serif;-inkscape-font-specification:'Verdana, Geneva, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:4.02192;text-anchor:middle;fill:#52b5e5;stroke-width:2.78156;stroke-dasharray:none"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="75.55407"
+       y="157.32965">V</tspan></text>
+  <text
+     x="123.70942"
+     y="157.29315"
+     font-family="Verdana, Geneva, sans-serif"
+     font-size="24.9316px"
+     font-weight="400"
+     fill="#52b5e5"
+     text-anchor="middle"
+     letter-spacing="5"
+     id="text7-3-5"
+     transform="scale(0.95336919,1.0489116)"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.0545px;font-family:Verdana, Geneva, sans-serif;-inkscape-font-specification:'Verdana, Geneva, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:4.02192;text-anchor:middle;fill:#52b5e5;stroke-width:2.78156;stroke-dasharray:none"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="125.72038"
+       y="157.29315">I</tspan></text>
+  <text
+     x="172.62654"
+     y="157.30411"
+     font-family="Verdana, Geneva, sans-serif"
+     font-size="24.9316px"
+     font-weight="400"
+     fill="#52b5e5"
+     text-anchor="middle"
+     letter-spacing="5"
+     id="text7-3-5-6"
+     transform="scale(0.95336919,1.0489116)"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.0545px;font-family:Verdana, Geneva, sans-serif;-inkscape-font-specification:'Verdana, Geneva, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:4.02192;text-anchor:middle;fill:#52b5e5;stroke-width:2.78156;stroke-dasharray:none"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="174.6375"
+       y="157.30411">L</tspan></text>
+  <text
+     x="222.44804"
+     y="157.3036"
+     font-family="Verdana, Geneva, sans-serif"
+     font-size="24.9316px"
+     font-weight="400"
+     fill="#52b5e5"
+     text-anchor="middle"
+     letter-spacing="5"
+     id="text7-3-5-6-8"
+     transform="scale(0.95336919,1.0489116)"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.0545px;font-family:Verdana, Geneva, sans-serif;-inkscape-font-specification:'Verdana, Geneva, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:4.02192;text-anchor:middle;fill:#52b5e5;stroke-width:2.78156;stroke-dasharray:none"><tspan
+       sodipodi:role="line"
+       id="tspan3-4"
+       x="224.459"
+       y="157.3036">L</tspan></text>
+  <text
+     x="273.66415"
+     y="157.30246"
+     font-family="Verdana, Geneva, sans-serif"
+     font-size="24.9316px"
+     font-weight="400"
+     fill="#52b5e5"
+     text-anchor="middle"
+     letter-spacing="5"
+     id="text7-3-5-6-8-9"
+     transform="scale(0.95336919,1.0489116)"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.0545px;font-family:Verdana, Geneva, sans-serif;-inkscape-font-specification:'Verdana, Geneva, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:4.02192;text-anchor:middle;fill:#52b5e5;stroke-width:2.78156;stroke-dasharray:none"><tspan
+       sodipodi:role="line"
+       id="tspan4"
+       x="275.67511"
+       y="157.30246">A</tspan></text>
+  <ellipse
+     cx="165.05484"
+     cy="47.1563"
+     stroke="url(#sunGrad3)"
+     stroke-width="12.1196"
+     fill="none"
+     opacity="0.9"
+     id="circle4"
+     style="fill:#faf8f8;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+     rx="35.430573"
+     ry="35.26712" />
+  <circle
+     cx="165.24878"
+     cy="46.32729"
+     r="35"
+     stroke="url(#sunGrad3)"
+     stroke-width="12"
+     fill="none"
+     opacity="0.9"
+     id="circle4-9"
+     style="stroke:url(#linearGradient194)" />
+  <ellipse
+     cx="165.55957"
+     cy="46.701496"
+     fill="#ffb347"
+     opacity="0.7"
+     id="circle5"
+     rx="25.525253"
+     ry="24.412539"
+     style="stroke-width:3.12035" />
+</svg>
