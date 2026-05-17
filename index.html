@@ -486,15 +486,44 @@
 
     /* ── RESPONSIVE ── */
     @media (max-width: 768px) {
-      nav { padding: 0 18px; }
-      .nav-links { display: none; }
-      .nav-brand { font-size: 10px; }
-      .about-grid, .amenities-grid, .location-grid { grid-template-columns: 1fr; gap: 36px; }
-      .about-img-badge { display: none; }
-      .gallery-grid, .resort-grid, .beach-grid { grid-template-columns: 1fr 1fr; }
-      .gi { grid-column: span 1 !important; grid-row: span 1 !important; }
-      .stat-item { padding: 8px 18px; }
-    }
+  nav { padding: 0 18px; }
+
+  .nav-links { display: none; }
+
+  .nav-brand { font-size: 10px; }
+
+  .about-grid,
+  .amenities-grid,
+  .location-grid {
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+
+  .hero-logo {
+    height: 220px;
+  }
+
+  .hero-tagline {
+    font-size: 13px;
+  }
+
+  .about-img-badge { display: none; }
+
+  .gallery-grid,
+  .resort-grid,
+  .beach-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .gi {
+    grid-column: span 1 !important;
+    grid-row: span 1 !important;
+  }
+
+  .stat-item {
+    padding: 8px 18px;
+  }
+}
   </style>
 </head>
 <body>
