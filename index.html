@@ -141,10 +141,34 @@
       to   { opacity:1; transform:translateY(0); }
     }
 
-    .hero-logo {
-      height: 280px; width: auto; margin-bottom: 24px;
-      filter: drop-shadow(0 4px 24px rgba(0,0,0,0.5));
-    }
+   .hero-logo-wrap {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 24px;
+  z-index: 1;
+}
+
+.hero-logo-wrap::before {
+  content: "";
+  position: absolute;
+  inset: -28px -55px;
+  background: rgba(255,255,255,0.13);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  filter: blur(10px);
+  border-radius: 999px;
+  z-index: -1;
+}
+
+.hero-logo {
+  height: 280px;
+  width: auto;
+  display: block;
+  filter:
+    drop-shadow(0 0 12px rgba(255,255,255,0.75))
+    drop-shadow(0 4px 10px rgba(0,0,0,0.28));
+  opacity: 0.97;
+}
 
     .hero-tagline {
       font-size: 16px; font-weight: 700;
@@ -499,9 +523,16 @@
     gap: 36px;
   }
 
-  .hero-logo {
-    height: 170px;
-  }
+.hero-logo {
+  height: 170px;
+}
+
+.hero-logo-wrap::before {
+  inset: -18px -32px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  filter: blur(7px);
+}
 
   .hero-tagline {
     font-size: 16px;
@@ -566,7 +597,9 @@
   <div class="hero-overlay"></div>
 
   <div class="hero-content">
-    <img class="hero-logo" src="solara_logo_for_web.svg?v=2" alt="Solara Coast Villa">
+    <div class="hero-logo-wrap">
+  <img class="hero-logo" src="solara_logo_for_web.svg?v=3" alt="Solara Coast Villa">
+</div>
     <p class="hero-tagline" data-en="Novaworld · Phan Thiết · Vietnam" data-vi="Novaworld · Phan Thiết · Việt Nam">Novaworld · Phan Thiết · Vietnam</p>
     <div class="hero-divider">
       <div class="line"></div><div class="dot"></div><div class="line"></div>
